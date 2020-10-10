@@ -3,4 +3,4 @@ With the availability of a massive volume of online review data, sentiment analy
 
 
 
-[Code Belongs to Vertizone IT Pvt. Ltd.]
+[Code Belongs to Vertizone IT Pvt. Ltd.](AUC_ROC.jpg)
